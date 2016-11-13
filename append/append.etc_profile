@@ -1,0 +1,7 @@
+set -o vi
+
+alias ll='ls -lar --color=never'
+alias docker='sudo docker'
+alias dps='sudo docker ps'
+alias screen='screen -D -RR -O'
+
