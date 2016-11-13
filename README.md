@@ -4,12 +4,12 @@
 'git clone https://github.com/torreypjones/boiw-k8s.git'
 
 ## to make modifications
-download first: 'git clone https://github.com/torreypjones/boiw-k8s.git'
+ - download first: 'git clone https://github.com/torreypjones/boiw-k8s.git'
 
-make modifications to whatever you're doing
+ - make modifications to whatever you're doing
 
-if added a new file: 'git add <path/to/file>'
+ - if added a new file: 'git add <path/to/file>'
 
-commit: 'git commit -m "commit message"'
+ - commit: 'git commit -m "commit message"'
 
-push modifications to github.com repo: 'git push origin master'
+ - push modifications to github.com repo: 'git push origin master'
