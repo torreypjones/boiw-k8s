@@ -13,3 +13,8 @@
  - commit: 'git commit -m "commit message"'
 
  - push modifications to github.com repo: 'git push origin master'
+
+## to merge
+ - pull down any modifications from the github.com repo: 'git pull'
+ - commit anything: 'git commit -m "commit message"'
+ - push back to the origin: 'git push origin master'
