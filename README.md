@@ -1,1 +1,11 @@
 # boiw-k8s
+
+##to download
+git clone https://github.com/torreypjones/boiw-k8s.git
+
+## to make modifications
+download first: git clone https://github.com/torreypjones/boiw-k8s.git
+make modifications
+if added a new file: git add <path/to/file>
+commit: git commit -m "commit message"
+push modifications to github.com repo: git push origin master
